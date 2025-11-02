@@ -1,0 +1,275 @@
+{
+  "frames": [
+    {
+      "id": "0x100",
+      "ecu": "Engine-ECU",
+      "dlc": 4,
+      "data": [13, 10, 0, 0],
+      "timestamp": 1174654640
+    },
+    {
+      "id": "0x120",
+      "ecu": "Brake-ECU",
+      "dlc": 1,
+      "data": [0],
+      "timestamp": 1174654640
+    },
+    {
+      "id": "0x300",
+      "ecu": "Body-ECU",
+      "dlc": 1,
+      "data": [12],
+      "timestamp": 1174654640
+    },
+    {
+      "id": "0x100",
+      "ecu": "Engine-ECU",
+      "dlc": 4,
+      "data": [11, 147, 0, 0],
+      "timestamp": 1174656640
+    },
+    {
+      "id": "0x120",
+      "ecu": "Brake-ECU",
+      "dlc": 1,
+      "data": [1],
+      "timestamp": 1174656640
+    },
+    {
+      "id": "0x300",
+      "ecu": "Body-ECU",
+      "dlc": 1,
+      "data": [14],
+      "timestamp": 1174656640
+    },
+    {
+      "id": "0x100",
+      "ecu": "Engine-ECU",
+      "dlc": 4,
+      "data": [12, 152, 0, 0],
+      "timestamp": 1174658640
+    },
+    {
+      "id": "0x120",
+      "ecu": "Brake-ECU",
+      "dlc": 1,
+      "data": [0],
+      "timestamp": 1174658640
+    },
+    {
+      "id": "0x300",
+      "ecu": "Body-ECU",
+      "dlc": 1,
+      "data": [6],
+      "timestamp": 1174658640
+    },
+    {
+      "id": "0x100",
+      "ecu": "Engine-ECU",
+      "dlc": 4,
+      "data": [4, 104, 0, 0],
+      "timestamp": 1174660640
+    },
+    {
+      "id": "0x300",
+      "ecu": "Body-ECU",
+      "dlc": 1,
+      "data": [0],
+      "timestamp": 1174660640
+    },
+    {
+      "id": "0x100",
+      "ecu": "Engine-ECU",
+      "dlc": 4,
+      "data": [13, 47, 0, 0],
+      "timestamp": 1174662640
+    },
+    {
+      "id": "0x300",
+      "ecu": "Body-ECU",
+      "dlc": 1,
+      "data": [9],
+      "timestamp": 1174662640
+    },
+    {
+      "id": "0x100",
+      "ecu": "Engine-ECU",
+      "dlc": 4,
+      "data": [14, 61, 0, 0],
+      "timestamp": 1174664640
+    },
+    {
+      "id": "0x120",
+      "ecu": "Brake-ECU",
+      "dlc": 1,
+      "data": [0],
+      "timestamp": 1174664640
+    },
+    {
+      "id": "0x300",
+      "ecu": "Body-ECU",
+      "dlc": 1,
+      "data": [9],
+      "timestamp": 1174664640
+    },
+    {
+      "id": "0x100",
+      "ecu": "Engine-ECU",
+      "dlc": 4,
+      "data": [13, 97, 0, 0],
+      "timestamp": 1174666640
+    },
+    {
+      "id": "0x120",
+      "ecu": "Brake-ECU",
+      "dlc": 1,
+      "data": [0],
+      "timestamp": 1174666640
+    },
+    {
+      "id": "0x300",
+      "ecu": "Body-ECU",
+      "dlc": 1,
+      "data": [1],
+      "timestamp": 1174666640
+    },
+    {
+      "id": "0x100",
+      "ecu": "Engine-ECU",
+      "dlc": 4,
+      "data": [9, 107, 0, 0],
+      "timestamp": 1174668640
+    },
+    {
+      "id": "0x120",
+      "ecu": "Brake-ECU",
+      "dlc": 1,
+      "data": [1],
+      "timestamp": 1174668640
+    },
+    {
+      "id": "0x300",
+      "ecu": "Body-ECU",
+      "dlc": 1,
+      "data": [1],
+      "timestamp": 1174668640
+    },
+    {
+      "id": "0x100",
+      "ecu": "Engine-ECU",
+      "dlc": 4,
+      "data": [18, 42, 0, 0],
+      "timestamp": 1174670640
+    },
+    {
+      "id": "0x120",
+      "ecu": "Brake-ECU",
+      "dlc": 1,
+      "data": [0],
+      "timestamp": 1174670640
+    },
+    {
+      "id": "0x300",
+      "ecu": "Body-ECU",
+      "dlc": 1,
+      "data": [4],
+      "timestamp": 1174670640
+    },
+    {
+      "id": "0x100",
+      "ecu": "Engine-ECU",
+      "dlc": 4,
+      "data": [5, 38, 0, 0],
+      "timestamp": 1174672640
+    },
+    {
+      "id": "0x120",
+      "ecu": "Brake-ECU",
+      "dlc": 1,
+      "data": [0],
+      "timestamp": 1174672640
+    },
+    {
+      "id": "0x300",
+      "ecu": "Body-ECU",
+      "dlc": 1,
+      "data": [0],
+      "timestamp": 1174672640
+    },
+    {
+      "id": "0x100",
+      "ecu": "Engine-ECU",
+      "dlc": 4,
+      "data": [11, 4, 0, 0],
+      "timestamp": 1174674640
+    },
+    {
+      "id": "0x120",
+      "ecu": "Brake-ECU",
+      "dlc": 1,
+      "data": [0],
+      "timestamp": 1174674640
+    },
+    {
+      "id": "0x300",
+      "ecu": "Body-ECU",
+      "dlc": 1,
+      "data": [9],
+      "timestamp": 1174674640
+    },
+    {
+      "id": "0x100",
+      "ecu": "Engine-ECU",
+      "dlc": 4,
+      "data": [17, 61, 0, 0],
+      "timestamp": 1174676640
+    },
+    {
+      "id": "0x120",
+      "ecu": "Brake-ECU",
+      "dlc": 1,
+      "data": [0],
+      "timestamp": 1174676640
+    },
+    {
+      "id": "0x300",
+      "ecu": "Body-ECU",
+      "dlc": 1,
+      "data": [7],
+      "timestamp": 1174676640
+    }
+  ],
+  "statistics": {
+    "total_frames": 34,
+    "collisions": 2,
+    "errors": 0,
+    "dropped_frames": 0,
+    "bus_active": true
+  },
+  "ecus": [
+    {
+      "name": "Engine-ECU",
+      "frames_sent": 12,
+      "frames_received": 0,
+      "active": true
+    },
+    {
+      "name": "Brake-ECU",
+      "frames_sent": 10,
+      "frames_received": 0,
+      "active": true
+    },
+    {
+      "name": "Body-ECU",
+      "frames_sent": 12,
+      "frames_received": 0,
+      "active": true
+    },
+    {
+      "name": "Infotainment-ECU",
+      "frames_sent": 0,
+      "frames_received": 34,
+      "active": true
+    }
+  ]
+}
